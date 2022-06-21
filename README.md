@@ -1,2 +1,1 @@
-my project
-test
+My first readme wow
